@@ -58,5 +58,5 @@ The model is built around one **Fact Table** (sales transactions) and three **Di
 
 ## Files
 
-- `sales_analysis_Dashboard.pbit` — Power BI template file (open in Power BI Desktop)
+- (https://github.com/vedantt27/Sale-Data-Analysis-Dashboard/blob/main/Dashboard%20Sales%20Analysis.png) — Power BI template file (open in Power BI Desktop)
 - `Dashboard_Sales_Analysis.png` — Dashboard screenshot
