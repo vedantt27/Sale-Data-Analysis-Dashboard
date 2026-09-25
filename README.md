@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built to analyze five years (2020–2024) of retail sales transactions, uncovering revenue trends, promotion effectiveness, and city-level performance to support data-driven business decisions.
 
-![Sales Analysis Dashboard]()
+![Sales Analysis Dashboard](Dashboard Sales Analysis.png)
 
 ## Business Problem
 
